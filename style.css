@@ -1,0 +1,64 @@
+.jumbotron {
+  padding-bottom: 200px;
+}
+.logo {
+  height: 50px;
+  width: 280px;
+        }
+.forma {
+  background: none;
+}
+.forma input {
+  border-radius: 10px;
+  border: none;
+  background: rgba(194, 193, 193, 0.5);
+  width: 80px;
+  padding-left: 7px;
+  transition: 0.7s;
+}
+.forma input:hover {
+  width: 250px;
+}
+::placeholder {
+  color: rgba(95, 95, 95, 0.5);
+}
+.forma button {
+  border-radius: 10px;
+  border: none;
+  transition: 0.5s;
+}
+.forma button:hover {
+  color: rgba(252, 59, 59, 0.5);
+  transform: scale(1.1);
+}
+#a259f86b-03f4-47ac-adca-e0b316d45eda {
+  height: 200px;
+}
+#b59c9f89-c93e-413f-a14b-776784e615e2 {
+  height: 200px;
+}
+#befb3988-1ef2-42f3-9de0-b031ba9e9b47 {
+  height: 200px;
+}
+#b1dd317e-8fb9-42d0-9880-4f9abd167789 {
+  height: 200px;
+}
+#fcc143ea-52ad-438e-9e3d-3172c539f37d {
+  height: 200px;
+}
+#a0910be2-6cb3-414b-9b74-c9f97494131d {
+  height: 400px;
+  margin-left: 240px;
+}
+.omotac_mape {
+  display: flex;
+  height: 100vh;
+}
+.mapa {
+  margin: auto;
+  width: 950px;
+}
+.welcome_pic {
+  height: 250px;
+  width: 550px;
+}
